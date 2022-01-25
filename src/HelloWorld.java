@@ -12,7 +12,7 @@ public class HelloWorld
         System.out.println("What is your name?");
         //Scanner stores input in name variable
         String name = scanner.nextLine();
-
+        //Print out greetings
         System.out.println("Hello " + name + " :)");
     }
 }
